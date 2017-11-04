@@ -1,9 +1,9 @@
 //*******************************************************************************************
-//								  VIRTUAL SIMULATOR
+//VIRTUAL SIMULATOR
 
-//Name 1:-Aditya Reddy kankanala         MID:-M20219799
-//Name 2:-Shravani Gaddam				 MID:-M20228201
-//Name 3:-Lavanya Mengaraboina			 MID:-M20228661
+
+
+//Name :-Lavanya Mengaraboina			
 //********************************************************************************************
 
 //Library includes
