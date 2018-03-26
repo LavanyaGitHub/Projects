@@ -1,6 +1,6 @@
 /* MAKE A DEAL 
   
-   LAVANYA MENGARABOINA   
+   LAVANYA    
    
 
 /* In this project Make a Deal, we have three doors out of which we can select a door, other door is
